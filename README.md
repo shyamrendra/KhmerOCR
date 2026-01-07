@@ -26,8 +26,14 @@ python recognize.py image.jpg
 យេម៉ែនលង់ក្នុងសង្គ្រាមតាំងពីពួកឧទ្ទាមហ៊ូទីគាំទ្រដោយអ៊ីរ៉ង់ចូលគ្រប់គ្រងរដ្ឋធានីសាណានិងដែនដីមួយភាគធំទៀតនៅឆ្នាំ២០១៤។មួយឆ្នាំ
 ```
 
+### Milestones
 
-## License
+- [ ] Add English & Symbols
+- [ ] Add Text Detection
+- [ ] Add ONNXRuntime
+- [ ] Add C/C++ Inference Engine
+
+### License
 
 ```
 MIT License
