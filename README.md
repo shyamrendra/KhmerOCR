@@ -2,6 +2,8 @@
 
 A Fast Khmer Optical Character Recognition. The model was trained on 3M text lines with Khmer 800+ fonts.
 
+> NOTE: Only works with text line at the moment. Text detection will be added in the future.
+
 ### Install
 
 ```shell
