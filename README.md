@@ -1,6 +1,6 @@
 ## KhmerOCR
 
-A Fast Khmer Optical Character Recognition (Document only).  The model was trained on 3M text lines with Khmer 800+ fonts.
+A Fast Khmer Optical Character Recognition (Document only).  The model was trained on 3M text lines with over 800+ Khmer fonts.
 
 > ⚠️ NOTE: Only works with a single text line at the moment. Text detection will be added in the future.
 
